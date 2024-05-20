@@ -7,3 +7,10 @@ const a =()=>{
 const b =()=>{
     console.log("a func");
 }
+const c =()=>{
+    console.log("c func");
+}
+
+const d =()=>{
+    console.log("d func");
+}
