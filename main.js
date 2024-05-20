@@ -1,5 +1,7 @@
 console.log("main.js");
 
+const func =()=>{
+    alert("a")
 const a =()=>{
     console.log("a func");
 }
