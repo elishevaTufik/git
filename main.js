@@ -16,3 +16,7 @@ const c =()=>{
 const d =()=>{
     console.log("d func");
 }
+
+const e =()=>{
+    console.log("e func");
+}
